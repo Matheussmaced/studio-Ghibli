@@ -11,10 +11,10 @@ const Body = () => {
             a desobedecem são transformados em animais.
           </p>
             <button id="assistirAgora">
-              <p>Assistir agora</p>
+              <a href="https://www.anitube.vip/video/157359" target='_blank'> <p>Assistir agora</p> </a>
             </button>
           <button id='trailer'>
-            <p>assista o trailer</p>
+           <a href="https://www.youtube.com/watch?v=SgZI655GgHk&ab_channel=FailBoom" target='_blank'> <p>assista o trailer</p> </a>
           </button>
         </div>
 

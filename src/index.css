@@ -109,6 +109,7 @@ h1{
   }
   h1{
     font-size: 56px;
+    width: 90%;
   }
 
   #informs{
@@ -119,5 +120,11 @@ h1{
 
   #trailer{
     display: none;
+  }
+  #sinopse{
+    width: 100%;
+  }
+  body{
+    padding: 41px 4%;
   }
 }
